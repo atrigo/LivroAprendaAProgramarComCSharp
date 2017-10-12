@@ -1,3 +1,10 @@
+/*
+ * Exemplo: Máquina de calcular
+ * Autor: Antonio Trigo
+ * Livro: Introdução à programação em C#
+ * Disponível em: 
+*/
+
 using System;
 namespace ConsoleApp1
 {
