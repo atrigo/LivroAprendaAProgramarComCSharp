@@ -1,2 +1,2 @@
 # livroCSharp
-Exemplos e exercícios do livro de C Sharp 
+Exemplos e exercícios do Livro Aprenda a Programar com C#
