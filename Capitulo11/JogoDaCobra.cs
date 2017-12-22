@@ -1,3 +1,10 @@
+/*
+ * Exemplo Jogo da Cobra
+ * Livro: Aprender a programar com C#
+ * Autores: Antonio Trigo e Jorge Henriques
+ * Disponível em: http://www.silabo.pt
+*/
+
 using System;
 
 namespace ConsoleApp1
