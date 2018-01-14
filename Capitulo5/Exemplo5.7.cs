@@ -5,19 +5,23 @@
  * Disponível em: http://www.silabo.pt
 */
 
-
 using System;
-namespace ConsoleApp1{
-    class Program{
-        static void Main(string[] args){
-            int valor1, valor2, maior;
-            Console.WriteLine("Insira um numero: ");
-            valor1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Insira outro numero: ");
-            valor2 = Convert.ToInt32(Console.ReadLine());
-            if (valor1 > valor2)
-                maior = valor1;
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int num1, num2, maior;
+            Console.Write("Insira um numero: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Insira outro numero: ");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            if (num1 > num2)
+                maior = num1;
             else
-                maior = valor2;
-            Console.WriteLine("O maior valor de " + valor1 + " e " + valor2 + " e': " + maior);
-}}}
+                maior = num2;
+            Console.WriteLine("O maior valor de " + num1 + " e " + num2 + " e: " + maior);
+        }
+    }
+}
