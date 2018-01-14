@@ -13,14 +13,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int[] v = new int[] { 3, 7, 4, 9, 2, 6, 7, 8, 9, 2 };
+            int posMenor = 0;
             for (int i = 0; i < v.Length; i++)
             {
-                if (v[i] == 7)
-                {
-                    Console.WriteLine("Indice: {0}", i);
-                    break;
-                }
+                if (v[i] < v[posMenor])
+                    posMinimo = i;
             }
+            Console.WriteLine("Resultado: Valor: {0}, Indice: {1}", v[posMenor], posMenor);
         }
     }
 }
