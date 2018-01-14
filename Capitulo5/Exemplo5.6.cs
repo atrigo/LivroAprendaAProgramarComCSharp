@@ -1,9 +1,10 @@
 /*
- * Exemplo: Máquina de calcular
- * Autor: Antonio Trigo
- * Livro: Introdução à programação em C#
- * Disponível em: 
+ * Exemplo 2.2
+ * Livro: Aprenda a programar com C#
+ * Autores: Antonio Trigo e Jorge Henriques
+ * Disponível em: http://www.silabo.pt
 */
+
 
 using System;
 namespace ConsoleApp1
