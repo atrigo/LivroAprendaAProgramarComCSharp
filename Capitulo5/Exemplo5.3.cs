@@ -12,28 +12,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int num1, num2;
-            char operacao;
-            Console.WriteLine("Insira um numero:");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Insira outro numero:");
-            num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Insira a operacao que deseja realizar (*,+,-,/):");
-            operacao = Convert.ToChar(Console.ReadLine());
-            if (operacao == '*')
-                Console.WriteLine("O resultado e: " + (num1 * num2));
-            else
-                if (operacao == '+')
-                Console.WriteLine("O resultado e: " + (num1 + num2));
-            else
-                    if (operacao == '-')
-                Console.WriteLine("O resultado e: " + (num1 - num2));
-            else
-                        if (operacao == '/')
-                if (num2 != 0)
-                    Console.WriteLine("O resultado e: " + (num1 / num2));
-                else
-                    Console.WriteLine("Nao e possivel dividir por 0.");
+            Console.WriteLine(5 + 3 * 9); //32
+            Console.WriteLine((5 + 3) * 9); //72		
+            Console.WriteLine(!false || true); //True (negacao avaliada antes do OU)		
+            Console.WriteLine(!(false || true)); //False (OU avaliado antes da negacao)
+            Console.WriteLine(true || false && false); //True (E avaliadao antes do OU)
+            Console.WriteLine((true || false) && false); //False       
         }
     }
 }
