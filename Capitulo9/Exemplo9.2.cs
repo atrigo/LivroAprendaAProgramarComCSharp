@@ -13,9 +13,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string frase = "B";
-            frase = frase + "om dia!";
-            Console.WriteLine(frase);
+            char[] a = { 'C', 'o', 'i', 'm', 'b', 'r', 'a' };
+            char[] b = { 'C', 'o', 'i', 'm', 'b', 'r', 'a' };
+            Console.WriteLine("{0}", a == b); //False
+            string strA = "Coimbra";
+            string strB = "Coimbra";
+            Console.WriteLine("{0}", strA == strB); //True        
         }
     }
 }
