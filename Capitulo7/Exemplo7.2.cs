@@ -39,7 +39,7 @@ namespace ConsoleApp1
             }
             else
             {
-                Console.WriteLine("Hora incorreto!");
+                Console.WriteLine("Hora incorreta!");
             }
         }
     }
