@@ -1,5 +1,5 @@
 /*
- * Exemplo 53
+ * Exemplo 5.3
  * Livro: Aprender a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
