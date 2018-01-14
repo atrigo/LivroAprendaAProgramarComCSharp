@@ -1,10 +1,9 @@
 /*
- * Exemplo 2.2
+ * Exemplo 5.6
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
 */
-
 
 using System;
 namespace ConsoleApp1
@@ -13,34 +12,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int num1, num2;
-            char operacao;
-            Console.WriteLine("Insira um numero:");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Insira outro numero:");
-            num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Insira a operacao que deseja realizar (*,+,-,/):");
-            operacao = Convert.ToChar(Console.ReadLine());
-            switch (operacao) {
-                case '*':
-                    Console.WriteLine("O resultado e: " + (num1 * num2));
-                    break;
-                case '+':
-                    Console.WriteLine("O resultado e: " + (num1 + num2));
-                    break;
-                case '-':
-                    Console.WriteLine("O resultado e: " + (num1 - num2));
-                    break;
-                case '/':
-                    if (num2 != 0)
-                        Console.WriteLine("O resultado e: " + (num1 / num2));
-                    else
-                        Console.WriteLine("Nao e possivel dividir por 0.");
-                    break;
-                default:
-                    Console.WriteLine("Operacao invalida");
-                    break;
-            }
+            float nota;
+            Console.Write("Insira a nota que obteve no exame: ");
+            nota = Convert.ToSingle(Console.ReadLine());
+            if (nota >= 9.5)
+                Console.WriteLine("Aprovado.");
+            else
+                Console.WriteLine("Reprovado.");
         }
     }
 }
