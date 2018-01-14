@@ -6,20 +6,16 @@
 */
 
 using System;
-
 namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            float nota;
-            Console.WriteLine("Insira a nota que obteve no exame: ");
-            nota = Convert.ToSingle(Console.ReadLine());
-            if (nota >= 9.5)
-                Console.WriteLine("Aprovado.");
-            else
-                Console.WriteLine("Reprovado.");
+            Console.WriteLine(4 > 5); //False
+            Console.WriteLine(4 < 5 && 6 > 10); //False		
+            Console.WriteLine(40 < 50 || 60 > 90); //True		
+            Console.WriteLine(!(40 < 50 || 60 > 90)); //False           
         }
     }
 }
