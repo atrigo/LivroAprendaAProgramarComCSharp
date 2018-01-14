@@ -12,11 +12,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            float nota;
-            Console.WriteLine("Insira a nota que obteve no exame: ");
-            nota = Convert.ToSingle(Console.ReadLine());
-            if (nota >= 9.5)
-                Console.WriteLine("Aprovado.");
+            int peso = 80;
+            char genero = 'M';
+            Console.WriteLine(peso == 80); //True
+            Console.WriteLine(peso >= 80); //True		
+            Console.WriteLine(genero == 'F'); //False		
+            Console.WriteLine(genero > 'F'); //True
+            Console.WriteLine((2 * 3 > 4) != (5 < 2)); //True              
         }
     }
 }
