@@ -1,5 +1,5 @@
 /*
- * Exemplo 8.5
+ * Exemplo 8.5 - Implementacao 1
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
