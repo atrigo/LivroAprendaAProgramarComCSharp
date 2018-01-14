@@ -5,7 +5,6 @@
  * Disponível em: http://www.silabo.pt
 */
 
-
 using System;
 namespace ConsoleApp1
 {
@@ -13,33 +12,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string mes;
-            Console.WriteLine("Insira um mes:");
-            mes = Console.ReadLine();
-            switch (mes)
-            {
-                case "janeiro":
-                case "marco":
-                case "maio":
-                case "julho":
-                case "agosto":
-                case "outubro":
-                case "dezembro":
-                    Console.WriteLine("O mes tem 31 dias");
-                    break;
-                case "fevereiro":
-                    Console.WriteLine("O mes tem 28 ou 29 dias");
-                    break;
-                case "abril":
-                case "junho":
-                case "setembro":
-                case "novembro":
-                    Console.WriteLine("O mes tem 30 dias");
-                    break;
-                default:
-                    Console.WriteLine("Mes invalido");
-                    break;
-            }
+            int lado1, lado2;
+            Console.Write("Insira um lado: ");
+            lado1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Insira outro lado: ");
+            lado2 = Convert.ToInt32(Console.ReadLine());
+            if (lado1 == lado2)
+                Console.WriteLine("A figura geometrica e um quadrado.");
+            else
+                Console.WriteLine("A figura geometrica e um retangulo.");
         }
     }
 }
