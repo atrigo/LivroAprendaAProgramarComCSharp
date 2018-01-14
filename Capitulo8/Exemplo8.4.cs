@@ -17,7 +17,7 @@ namespace ConsoleApp1
             for (int i = 0; i < v.Length; i++)
             {
                 if (v[i] < v[posMenor])
-                    posMinimo = i;
+                    posMenor = i;
             }
             Console.WriteLine("Resultado: Valor: {0}, Indice: {1}", v[posMenor], posMenor);
         }
