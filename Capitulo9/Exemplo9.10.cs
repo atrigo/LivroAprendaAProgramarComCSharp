@@ -6,26 +6,19 @@
 */
 
 using System;
+using System.Text;
 namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string frase;
-            int i = 0, j = 0;
-            Console.Write("Insira uma frase: ");
-            frase = Console.ReadLine();
-            char[] charsFrase = frase.ToCharArray();
-            for (i = 0; i < charsFrase.Length; i++)
-            {
-                if (charsFrase[i] == 'a')
-                {
-                    charsFrase[i] = '*';
-                }
-            }
-            frase = new string(charsFrase);
-            Console.WriteLine(frase);
+            StringBuilder sb = new StringBuilder();
+            sb.Append("De caderno fechado nao sai, ");
+            sb.Replace("caderno", "livro");
+            sb.Insert(sb.ToString().IndexOf(","), " letrado");
+            sb.Replace(",", ".");
+            Console.WriteLine(sb);
         }
     }
 }
