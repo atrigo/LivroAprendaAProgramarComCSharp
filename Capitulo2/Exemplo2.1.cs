@@ -12,7 +12,7 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.Write("Como se chama: ");
+            Console.WriteLine("Como se chama?");
             // Utilizacao da variavel nomeProprio para
             // ler o nome do utilizador
             string nomeProprio = Console.ReadLine();
