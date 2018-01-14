@@ -12,15 +12,28 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int lado1, lado2;
-            Console.Write("Insira um lado: ");
-            lado1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Insira outro lado: ");
-            lado2 = Convert.ToInt32(Console.ReadLine());
-            if (lado1 == lado2)
-                Console.WriteLine("A figura geometrica e um quadrado.");
+            int num1, num2;
+            char operacao;
+            Console.WriteLine("Insira um numero:");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Insira outro numero:");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Insira a operacao que deseja realizar (*,+,-,/):");
+            operacao = Convert.ToChar(Console.ReadLine());
+            if (operacao == '*')
+                Console.WriteLine("O resultado e: " + (num1 * num2));
             else
-                Console.WriteLine("A figura geometrica e um retangulo.");
+                if (operacao == '+')
+                Console.WriteLine("O resultado e: " + (num1 + num2));
+            else
+                    if (operacao == '-')
+                Console.WriteLine("O resultado e: " + (num1 - num2));
+            else
+                        if (operacao == '/')
+                if (num2 != 0)
+                    Console.WriteLine("O resultado e: " + (num1 / num2));
+                else
+                    Console.WriteLine("Nao e possivel dividir por 0.");
         }
     }
 }
