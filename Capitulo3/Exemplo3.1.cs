@@ -21,7 +21,7 @@ namespace ConsoleApp1
             Console.WriteLine("Real: " + c);
             b = (int)c;
             // Na conversao acima perde -se a informacao do valor decimal
-        Console.WriteLine("Inteiro: " + b);
+            Console.WriteLine("Inteiro: " + b);
         }
     }
 }
