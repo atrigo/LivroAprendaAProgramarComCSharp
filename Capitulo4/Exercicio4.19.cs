@@ -1,6 +1,6 @@
 
 /*
- * Exemplo 4.19
+ * Exercicio 4.19
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
