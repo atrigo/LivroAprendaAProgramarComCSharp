@@ -1,6 +1,6 @@
 
 /*
- * Exemplo 4.5
+ * Exercicio 4.5
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
