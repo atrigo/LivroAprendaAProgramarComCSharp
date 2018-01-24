@@ -7,3 +7,15 @@
  * Disponível em: http://www.silabo.pt
 */
 
+using System;
+
+namespace Cap4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("3+4={0}",3+4); 
+        }
+    }
+}
