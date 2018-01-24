@@ -4,3 +4,27 @@
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
 */
+
+using System;
+
+namespace Cap4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double X,Y,P,V,q;
+            Console.Write("Qual é o salário base: "); // Não é feita validação, ou seja, o utilizador pode introduzir caracteres inválidos
+            X = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Qual é a comissão por automóvel: "); 
+            Y = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Quantos automóveis vendeu: "); 
+            q = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Qual é a percentagem sobre o valor das vendas: "); //Introduza um valor decimal
+            P = Convert.ToSingle(Console.ReadLine());
+            Console.Write("Qual é o valor das vendas: "); 
+            V = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("Salário mensal: {0:F2} ",X+q*Y+P*V); 
+        }
+    }
+}
