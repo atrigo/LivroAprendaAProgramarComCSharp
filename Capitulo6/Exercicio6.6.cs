@@ -5,6 +5,7 @@
  * Disponível em: http://www.silabo.pt
 */
 
+//Versao 1
 using System;
 
 namespace Cap6
@@ -25,3 +26,31 @@ namespace Cap6
     }
 }
 
+//Versao 2
+using System;
+
+namespace Cap6
+{
+    class Program
+    {
+        static void Main(string[] args) //a base é real e o expoente pode ser qualquer inteiro
+        {
+            int e, i; // o elemento neutro da multiplicação é 1
+            float b, pot=1; 
+            Console.Write("Introduza o valor da base: ");     // Não é feita validação, ou seja, o utilizador pode  introduzir 
+            b = Convert.ToSingle(Console.ReadLine());            //valores incorrectos ou caracteres inválidos e  como tal gerar excepções (ERROS)
+            Console.Write("Introduza o valor do expoente: ");
+            e = Convert.ToInt32(Console.ReadLine());
+            if(e>=0) //avalia se o expoente é positivo ou negativo
+                for (i = 0; i < e; i++) // expoente positivo
+                    pot *= b; // ou pot= pot*b;
+            else
+            {
+                for (i = 0; i < -e; i++) // expoente negativo --> troca o sinal do expoente
+                    pot *= b; 
+                pot = 1 / pot; // inverte pot
+            }
+            Console.Write("{0}^{1}={2:F3}\n",b,e,pot); 
+        }
+    }
+}
