@@ -1,4 +1,4 @@
 # Livro Aprenda a Programar com C#
 Exemplos e exercícios do livro Aprenda a Programar com C#
 
-![alt text](https://github.com/atrigo/LivroAprendaAProgramarComCSharp/edit/master/cover.png)
+![alt text](https://github.com/atrigo/LivroAprendaAProgramarComCSharp/edit/master/9343_C.jpg)
