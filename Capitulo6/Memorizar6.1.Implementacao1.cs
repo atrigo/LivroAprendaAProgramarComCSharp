@@ -3,6 +3,9 @@
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
+ *
+ * Enunciado: Escreva um programa que avalie de um número introduzido por um utilizador é ou não um número primo. 
+ *
 */
 
 using System;
