@@ -3,6 +3,10 @@
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
+ *
+ * Enunciado:  Escreva um programa que apresente no ecrã o maior número de 
+ * um conjunto de números introduzidos pelo utilizador. A introdução de números 
+ * termina quando for inserido um 0 pelo utilizador.
 */
 
 using System;
