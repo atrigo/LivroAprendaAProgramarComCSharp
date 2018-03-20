@@ -1,5 +1,5 @@
 /*
- * Exercicio 5.8
+ * Exercicio 5.8 - Determine se um ano é Bissexto
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
