@@ -1,7 +1,7 @@
 /*
  * Exemplo 4.2
- * Livro: Aprenda a programar com C#
  * Enunciado: Escreva um programa que apresente no ecrã o resultado da expressão 5/2. Analise o resultado.
+ * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
 */
