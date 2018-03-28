@@ -1,6 +1,9 @@
 
 /*
  * Exercicio 4.5
+ * Enunciado: Escreva um programa que apresente os números 4,68805; 4,8; 5,9964; e 5 arredondados em 
+ *            três linhas diferentes, sendo que na primeira linha aparecem todos arredondados 
+ *            a três casas decimais, na segunda a duas e na terceira a uma casa decimal.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
