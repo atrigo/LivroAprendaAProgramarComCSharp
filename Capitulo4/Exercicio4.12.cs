@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.12
+ * Enunciado: Escreva um programa que peça o lado do quadrado e imprima a sua área e perímetro.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
