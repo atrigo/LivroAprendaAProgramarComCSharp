@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.8
+ * Enunciado:   Escreva um programa que leia uma sequência de números inteiros a partir do teclado e acumule 
+ *              unicamente a soma dos inteiros positivos. O programa termina quando o número lido for zero.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
