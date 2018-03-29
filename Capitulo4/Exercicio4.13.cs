@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.13
+ * Enunciado: Escreva um programa que calcule a hipotenusa de um triângulo retângulo (utilizar o método Math.Sqrt).
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
