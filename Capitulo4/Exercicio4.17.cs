@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.17
+ * Enunciado: Altere o programa anterior por forma a que o valor da taxa de IVA seja também um valor fornecido pelo utilizador.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
