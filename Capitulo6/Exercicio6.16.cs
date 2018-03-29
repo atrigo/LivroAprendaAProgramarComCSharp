@@ -1,5 +1,9 @@
 /*
  * Exercicio 6.16
+ * Enunciado:   O dono de um hotel concebeu uma forma original de cobrar aos seus clientes. A primeira noite custa 50 euros. 
+ *              A segunda custa 25 euros (ou seja, 50\2 euros), a terceira 50\3 euros e a n-ésima noite custa 50\n euros. 
+ *              Escreva um programa que calcule a cobrança a efetuar a um cliente que fique X noites no hotel. 
+ *              O programa deve indicar o preço a pagar por cada noite e também o total.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
