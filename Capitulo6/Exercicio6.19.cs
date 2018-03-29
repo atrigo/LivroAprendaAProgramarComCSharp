@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.19
+ * Enunciado: Escreva um programa que imprima uma árvore de ``*''.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
