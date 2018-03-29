@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.19
+ * Enunciado: Escreva um programa que apresente ao utilizador a sua idade daqui a vinte anos.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
