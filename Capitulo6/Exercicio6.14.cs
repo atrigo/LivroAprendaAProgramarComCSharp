@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.14
+ * Enunciado:   Escreva um programa que mostre os n termos da seguinte série: S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m. 
+                Imprima no final a soma da série.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
