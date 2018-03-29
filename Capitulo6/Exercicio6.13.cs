@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.13
+ * Enunciado: Escreva um programa que determine os divisores de um número inteiro introduzido pelo utilizador.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
