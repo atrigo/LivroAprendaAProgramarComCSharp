@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.12
+ * Enunciado:   Escreva um programa que imprima, em várias linhas, os 25 primeiros múltiplos de um dado número inteiro 
+                introduzido pelo utilizador. Cada uma das linhas escritas deve conter 5 múltiplos do número especificado.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
