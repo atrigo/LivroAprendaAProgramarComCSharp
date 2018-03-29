@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.11
+ * Enunciado:  Altere o jogo do adivinho apresentado anteriormente para contar o número de tentativas de acerto.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
