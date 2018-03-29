@@ -1,5 +1,7 @@
 /*
  * Exercicio 4.25
+ * Enunciado:   Escreva um programa que calcule a distância Euclidiana entre dois pontos P(x1,y1) e P(x2,y2). 
+ *              distancia = RAIZQUADRADA((x1-x2)^2+(y1-y2)^2)
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
