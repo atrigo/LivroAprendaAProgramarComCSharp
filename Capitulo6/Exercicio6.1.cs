@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.1
+ * Enunciado: Escreva um programa que imprima no ecrã um retângulo com o símbolo ``X'' sabendo a sua largura e comprimento.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
