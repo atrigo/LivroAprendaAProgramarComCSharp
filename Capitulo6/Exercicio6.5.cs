@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.5
+ * Enunciado: Altere o programa anterior para mostrar no final a soma dos números.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
