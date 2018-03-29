@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.18
+ * Enunciado: Escreva um programa que converta um valor em segundos para horas, minutos e segundos.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
