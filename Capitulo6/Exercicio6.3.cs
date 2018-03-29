@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.3
+ * Enunciado:   Escreva um programa que calcule a soma, com incrementos de 3, de todos os números menores que 100, 
+                começando em 4 (ex.: 4+7+10+13+...), utilizando as três estruturas de repetição que conhece.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
