@@ -1,5 +1,8 @@
 /*
  * Exercicio 6.33
+ * Enunciado:   Um número perfeito é um número inteiro positivo para o qual a soma de todos os seus divisores 
+ *              inteiros positivos próprios (excluindo ele mesmo) é igual ao próprio número. Escreva um programa 
+ *              que apresente no ecrã todos os números perfeitos até 10000.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
