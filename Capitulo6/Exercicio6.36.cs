@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.36
+ * Enunciado: Escreva um programa que apresente no ecrã todas as capicuas até 10000.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
