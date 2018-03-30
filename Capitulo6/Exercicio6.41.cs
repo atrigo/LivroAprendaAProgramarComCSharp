@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.41
+ * Enunciado:   Escreva um programa que leia 15 números entre 15 e 50 (os números lidos devem ser validados) 
+ *              e apresente a soma dos números primos lidos.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
