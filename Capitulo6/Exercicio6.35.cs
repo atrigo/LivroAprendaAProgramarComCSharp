@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.35
+ * Enunciado: Escreva um programa que avalie se um NIF introduzido pelo utilizador é válido.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
