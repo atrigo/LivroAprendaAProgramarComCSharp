@@ -1,5 +1,8 @@
 /*
  * Exercicio 6.30
+ * Enunciado:   Qual é o menor número inteiro positivo, tal que, se retirarmos o algarismo das unidades e 
+ *              o colocarmos do lado esquerdo, obtemos um número 5 vezes maior. Escreva um programa que 
+ *              resolva o problema proposto.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
