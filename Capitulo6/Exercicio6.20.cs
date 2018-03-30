@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.20
+ * Enunciado: Escreva um programa que determine o máximo divisor comum (MDC) de dois números utilizando o algoritmo de Euclides.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
