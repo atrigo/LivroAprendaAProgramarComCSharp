@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.24
+ * Enunciado:   Altere o programa anterior permitindo ao utilizador informar as populações e as taxas de crescimento iniciais. 
+ *              Valide a entrada e permita repetir a operação.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
