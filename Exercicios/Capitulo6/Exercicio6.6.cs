@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.6
+ * Enunciado:   Escreva um programa que peça dois números, base e expoente, calcule e mostre o 
+                primeiro número elevado ao segundo número. Não utilize o método \textit{Pow(,)} da linguagem C\#
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

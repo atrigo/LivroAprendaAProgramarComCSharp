@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.4
+ * Enunciado: Escreva um programa que apresente no ecrã a parte inteira de um número introduzido pelo utilizador.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

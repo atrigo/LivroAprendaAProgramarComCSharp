@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.17
+ * Enunciado:   Altere o programa de cálculo dos números primos, apresentando, caso o número não seja primo, 
+ *              os números pelos quais ele é divisível.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

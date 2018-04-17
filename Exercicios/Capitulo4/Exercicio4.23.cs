@@ -1,5 +1,7 @@
 /*
  * Exercicio 4.23
+ * Enunciado:   Escreva um programa que troque entre si o valor contido em duas variáveis inteiras a e b, 
+ *              ou seja, o valor contido em a passa a ser o valor de b e vice-versa, sem utilizar uma terceira variável.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

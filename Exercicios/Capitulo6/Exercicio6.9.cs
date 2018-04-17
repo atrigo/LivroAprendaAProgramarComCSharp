@@ -1,5 +1,10 @@
 /*
  * Exercicio 6.9
+ * Enunciado: Escreva um programa que peça a altura de $n$ alunos de uma turma e apresente as seguintes estatísticas:
+ *  	            - A altura do aluno mais baixo;
+ *		            - A altura do aluno mais alto;
+ *		            - A soma das alturas;
+ *		            - A médias das alturas.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

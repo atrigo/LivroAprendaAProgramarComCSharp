@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.21
+ * Enunciado: Escreva um programa que determine o mínimo múltiplo comum (MMC) de dois números.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

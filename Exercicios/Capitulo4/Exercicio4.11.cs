@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.11
+ * Enunciado: Escreva um programa que peça dois números ao utilizador e apresente a sua soma.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

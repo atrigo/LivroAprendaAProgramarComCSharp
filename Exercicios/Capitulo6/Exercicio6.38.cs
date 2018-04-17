@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.38
+ * Enunciado: Qual é o menor múltiplo de 416 composto apenas pelos dígitos 1 e 2?
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

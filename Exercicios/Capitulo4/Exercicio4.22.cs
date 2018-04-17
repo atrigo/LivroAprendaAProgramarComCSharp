@@ -1,5 +1,9 @@
 /*
  * Exercicio 4.22
+ * Enunciado:   Num determinado stand de automóveis, os vendedores ganham um salário mensal base X, 
+ *              uma comissão de Y euros por cada automóvel que vendem e uma percentagem P sobre o valor 
+ *              das vendas V que efetuarem. Escreva um programa que calcule e imprima o salário que um 
+ *              vendedor vai auferir este mês.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

@@ -1,5 +1,8 @@
 /*
  * Exercicio 6.22
+ * Enunciado:   Escreva um programa que peça a n pessoas de uma turma a sua idade. No final o programa deverá 
+                verificar se a média de idade da turma varia entre 0 e 25, 26 e 60 e maior que 60; e então, 
+                dizer se a turma é jovem, adulta ou idosa, conforme a média calculada.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

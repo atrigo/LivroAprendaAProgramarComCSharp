@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.40
+ * Enunciado:   Escreva um programa que leia 20 números entre 10 e 30 (os números lidos devem ser validados) 
+ *              e apresente o produto dos que pertencerem ao intervalo [10,20].
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

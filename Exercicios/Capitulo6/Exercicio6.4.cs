@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.4
+ * Enunciado:   Escreva um programa que receba dois números inteiros e gere os números inteiros 
+ *              que estão no intervalo compreendido por eles.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

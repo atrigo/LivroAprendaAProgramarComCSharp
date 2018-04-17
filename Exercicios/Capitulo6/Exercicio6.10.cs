@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.10
+ * Enunciado: Escreva um programa que leia um número inteiro e calcule a soma dos seus dígitos.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

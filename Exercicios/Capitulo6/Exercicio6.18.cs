@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.18
+ * Enunciado:   Escreva um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo utilizador. 
+ *              O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

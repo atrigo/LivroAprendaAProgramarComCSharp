@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.7
+ * Escreva um programa que leia do utilizador 3 números e os apresente alinhados à esquerda, na mesma linha, cada um com 10 casas.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

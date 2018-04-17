@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.39
+ * Enunciado:   Escreva um programa que determine o maior número ímpar e o menor par introduzidos pelo utilizador. 
+                A introdução de números pelo utilizador termina quando for introduzido um número negativo.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

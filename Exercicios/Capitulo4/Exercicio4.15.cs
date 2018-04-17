@@ -1,6 +1,8 @@
 
 /*
  * Exercicio 4.15
+ * Enunciado:   Escreva um programa que converta a temperatura lida em graus 
+ *              Fahrenheit para graus Celsius. A fórmula é C = 5/9 (F-32). 
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

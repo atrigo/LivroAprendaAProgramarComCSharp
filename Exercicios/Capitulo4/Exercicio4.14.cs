@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.14
+ * Enunciado: Escreva um programa que converta dólares americanos para euros.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

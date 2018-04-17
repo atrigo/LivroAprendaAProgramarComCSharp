@@ -1,6 +1,8 @@
 
 /*
  * Exercicio 4.16
+ * Enunciado:   Escreva um programa que leia o preço base de um determinado produto
+ *              e calcule o seu valor de venda ao público (ou seja, valor acrescido da taxa de IVA a 23\%).
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

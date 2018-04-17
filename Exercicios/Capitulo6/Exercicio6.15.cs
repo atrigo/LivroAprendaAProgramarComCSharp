@@ -1,5 +1,7 @@
 /*
  * Exercicio 6.15
+ * Enunciado:   Escreva um programa que mostre e calcule a série S = 1/3−3/5+5/7−7/9+9/11 ..., sendo N o número de 
+ *               termos da série informado pelo utilizador.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

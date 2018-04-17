@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.37
+ * Enunciado: Qual é o menor múltiplo de 182 composto apenas pelo dígito 4?
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

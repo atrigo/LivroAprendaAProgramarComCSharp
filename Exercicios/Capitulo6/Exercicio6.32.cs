@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.32
+ * Enunciado: Escreva um programa que converta a numeração Árabe em Romana.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

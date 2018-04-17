@@ -1,5 +1,7 @@
 /*
  * Exercicio 4.21
+ * Enunciado:   Escreva um programa que calcule a despesa média diária que um turista despendeu numa viagem de quatro dias ao Porto, sabendo que cada 
+                dia gastou mais 20\% do que no dia anterior. O valor da despesa deverá ser apresentado sem casas decimais.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

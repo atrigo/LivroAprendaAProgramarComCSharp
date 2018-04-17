@@ -1,5 +1,8 @@
 /*
  * Exercicio 6.34
+ * Enunciado:   Um número primo de Mersenne é um número de Mersenne (número da forma M(n) = 2^n-1, 
+ *              com n um número inteiro positivo) que também é um número primo. Escreva um programa 
+ *              que determine todos os números de Mersenne até n = 61.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

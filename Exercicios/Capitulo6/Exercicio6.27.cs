@@ -1,5 +1,6 @@
 /*
  * Exercicio 6.27
+ * Enunciado: Escreva um programa que converta um número decimal em binário.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt

@@ -1,6 +1,7 @@
 
 /*
  * Exercicio 4.6
+ * Enunciado: Escreva um programa que apresente os números anteriores em percentagem.
  * Livro: Aprenda a programar com C#
  * Autores: Antonio Trigo e Jorge Henriques
  * Disponível em: http://www.silabo.pt
