@@ -1,4 +1,4 @@
-**Exercícios do Capítulo 4 do livro
+# Exercícios do Capítulo 4 do livro
 
 1. Escreva um programa que apresente no ecrã o resultado da expressão 3 + 4.
 2. Escreva um programa que apresente no ecrã o resultado da expressão 5/2. Analise o resultado.
