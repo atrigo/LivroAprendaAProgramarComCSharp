@@ -15,14 +15,14 @@ namespace Cap6
     {
         static void Main(string[] args) 
         {
-            int n,soma=0;
-            Console.Write("Introudza um número inteiro: ");
+            int n, soma = 0;
+            Console.Write("Introduza um número inteiro: ");
             n = Convert.ToInt32(Console.ReadLine());
             while (n != 0) // Sugestão: Faça execução passo a passo (F10) e observe os valores das variáveis na janela Locais
             {
                 soma += n % 10; // O resto da divisão por 10 permite obter cada um dos dígitos do número
                 n /= 10; // Depois da obtenção esse dígito é descartado
-            } 
+            }
             Console.WriteLine("Soma dos dígitos:{0}", soma);
         }
     }
