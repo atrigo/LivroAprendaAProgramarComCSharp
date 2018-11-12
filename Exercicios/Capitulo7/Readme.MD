@@ -9,11 +9,11 @@
 7. Escreva um método que leia e valide a classificação de um aluno numa prova escrita. A nota deverá estar entre 0 e 20. Escreva um programa que invoque o método anterior e valide a entrada das notas relativas a 10 alunos.
 8. Escreva e teste um método que devolva o valor da hipotenusa. O método recebe como parâmetros de entrada os catetos do triângulo.
 9. Geração de números pares:
-    1. Escreva um método que verifique se um número inteiro positivo é par.
-		2. Escreva um programa que utilize o método da alínea anterior para imprimir os primeiros N números pares, em que N é um número inteiro positivo inserido pelo utilizador.
+	1. Escreva um método que verifique se um número inteiro positivo é par.
+	2. Escreva um programa que utilize o método da alínea anterior para imprimir os primeiros N números pares, em que N é um número inteiro positivo inserido pelo utilizador.
 10. Geração de números primos
-    1. Escreva um método que verifique se um número inteiro positivo é primo.
-		2. Escreva um programa que utilize o método da alínea anterior para imprimir os primeiros N números primos, em que N é um número inteiro positivo inserido pelo utilizador.
+	1. Escreva um método que verifique se um número inteiro positivo é primo.
+	2. Escreva um programa que utilize o método da alínea anterior para imprimir os primeiros N números primos, em que N é um número inteiro positivo inserido pelo utilizador.
 11. Escreva e teste um método que receba, como argumento, um valor inteiro positivo e devolva o número de dígitos do valor recebido. 
 12. Escreva e teste um método que leia um conjunto de números inteiros e devolva o número de vezes que o valor máximo surgiu. A dimensão da sequência é passada por parâmetro. 
 13. Escreva um método que simule o lançamento de um dado. Este método não tem qualquer parâmetro de entrada e devolve 1, 2, 3, 4, 5 ou 6. Utilize esse método num programa que simula n lançamentos de um dado (n definido pelo utilizador) e apresenta no final quantas vezes saiu a face 6.
