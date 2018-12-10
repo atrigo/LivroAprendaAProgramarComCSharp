@@ -1,4 +1,4 @@
-# Exercícios do Capítulo 8 do livro
+# Exercícios do Capítulo 9 do livro
 
 1. Escreva e teste um método que leia o seu nome e o apresente no ecrã.
 2. Escreva e teste um método que leia o seu nome e apelido e os apresente no ecrã.
