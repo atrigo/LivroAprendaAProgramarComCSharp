@@ -12,15 +12,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] v = new int[] { 3, 7, 4, 9, 2, 6, 7, 8, 9, 2 };
-            for (int i = 0; i < v.Length; i++)
-            {
-                if (v[i] == 7)
-                {
-                    Console.WriteLine("Indice: {0}", i);
-                    break;
+            static void Main(string[] args){
+            bool encontrou = false;
+            int numPesquisar = 7;
+            int[] v = new int[] { 3,7,4,9,2,6,7,8,9,2};
+            for (int i = 0; i < v.Length; i++) {
+                if (v[i] == numPesquisar) {
+                    encontrou = true;
                 }
             }
+            Console.WriteLine("O valor {0} esta presente " +
+            "no vetor?{1}",numPesquisar,encontrou);
         }
     }
 }
